@@ -40,5 +40,5 @@
  * we can include release number and git hash.
  */
 const char *htscodecs_version() {
-    return HTSCODECS_VERSION_TEXT;
+    return HTSCODECS_VERSION;
 }
